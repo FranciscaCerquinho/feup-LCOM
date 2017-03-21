@@ -1,4 +1,4 @@
 # feup-LCOM
 
 
-![](C:\Users\SaraPc\Desktop\imagens/menu.png "Menu")
+![](Desktop/imagens/menu.png "Menu")
