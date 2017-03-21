@@ -5,7 +5,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/22794956/24159113/290147dc-0e56-11e7-8794-96d5fceece45.png)
 
-![](https://cloud.githubusercontent.com/assets/22794956/24159114/290f087c-0e56-11e7-9254-167422c1849c.png")
+![](https://cloud.githubusercontent.com/assets/22794956/24159114/290f087c-0e56-11e7-9254-167422c1849c.png)
 
 ![]("https://cloud.githubusercontent.com/assets/22794956/24159110/28ff7632-0e56-11e7-9f33-621433a62dfe.png)
 
